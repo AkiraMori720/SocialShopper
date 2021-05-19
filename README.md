@@ -1,2 +1,1 @@
-# SocialShopper
-Shopping Site (React + Nodejs)
+# Social Shopper
